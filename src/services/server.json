@@ -1,0 +1,522 @@
+{
+    "Objetivos": [
+        {
+            "id": "1",
+            "name": "Erradicação da Pobreza",
+            "produzido": [
+                "Proporção da população vivendo abaixo da linha de pobreza internacional, por sexo, idade, condição perante o trabalho e localização geográfica (urbano/rural)",
+                "Proporção da população vivendo abaixo da linha de pobreza internacional, por sexo, idade, condição perante o trabalho e localização geográfica (urbano/rural)",
+                "Número de mortes, pessoas desaparecidas e pessoas diretamente afetadas atribuído a desastres por 100 mil habitantes",
+                "Número de países que adotaram e implementaram estratégias nacionais de redução de risco de desastres em linha com o Quadro de Sendai para a Redução de Risco de Desastres 2015-2030",
+                "Proporção de governos locais que adotam e implementam estratégias locais de redução de risco de desastres em linha com as estratégias nacionais de redução de risco de desastres"
+            ],
+            "construção": [
+                "Proporção de homens, mulheres e crianças de todas as idades vivendo na pobreza em todas as dimensões de acordo com as definições nacionais",
+                "Proporção da população que vive em domicílios com acesso a serviços básicos",
+                "Proporção da população adulta total com direitos de posse da terra garantidos, com documentação legalmente reconhecida e que percebe os seus direitos à terra como seguros, por sexo e por tipo de posse",
+                "ubsídios totais de assistência oficial ao desenvolvimento, de todos os doadores que se concentram na redução da pobreza, como uma parte da renda nacional bruta do país destinatário",
+                "Proporção do total das despesas públicas com serviços essenciais (educação, saúde e proteção social)",
+                "Gastos sociais públicos para os menos favorecidos"
+            ],
+            "semDados": [
+                "Proporção da população abrangida por regimes de proteção social, por sexo e para os seguintes grupos populacionais: crianças, população desempregada, população idosa, população com deficiência, mulheres grávidas, crianças recém-nascidas, pessoas que sofreram acidentes de trabalho, população em risco de pobreza e outros grupos populacionais vulneráveis",
+                "Perdas econômicas diretas atribuídas a desastres em relação ao Produto Interno Bruto (PIB) global"
+            ],
+            "naoAplicaAoBrasil": [
+
+            ]
+
+        },
+        {
+            "id": "2",
+            "name": "Fome Zero e Agricultura Sustentável",
+            "produzido": [
+                "Prevalência de insegurança alimentar moderada ou grave, baseado na Escala de Experiência de Insegurança Alimentar (FIES)",
+                "Prevalência de atrasos no crescimento nas crianças com menos de 5 anos de idade",
+                "Prevalência de malnutrição nas crianças com menos de 5 anos de idade, por tipo de malnutrição (baixo peso e excesso de peso)",
+                "Número de recursos genéticos vegetais e animais para a alimentação e agricultura, protegidos a médio ou longo prazo em instalações de conservação",
+                "Índice de orientação agrícola para a despesa pública",
+                "Total de fluxos oficiais (ajuda pública ao desenvolvimento e outros fluxos oficiais) para o setor agrícola",
+                "Subsídios às exportações agrícolas"
+
+            ],
+            "construção": [
+                "Prevalência de subalimentação",
+                "Volume de produção por unidade de trabalho por dimensão da empresa agrícola/pastoril/florestal",
+                "Renda média dos pequenos produtores de alimentos, por sexo e condição de indígena",
+                "Indicador de anomalias dos preços de alimentação"
+            ],
+            "semDados": [
+                "Prevalência de anemia em mulheres de 15 a 49 anos, segundo estado de gravidez",
+                "Proporção da área agrícola sob agricultura produtiva e sustentável",
+                "Proporção de raças locais classificadas como em risco de extinção"
+            ],
+            "naoAplicaAoBrasil": [
+
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Boa Saúde e Bem-Estar",
+            "produzido": [
+               "Razão de mortalidade materna",
+               "Proporção de nascimentos assistidos por pessoal de saúde qualificado",
+               "Taxa de mortalidade em menores de 5 anosAtualizado",
+               "Taxa de mortalidade neonatal",
+               "Incidência de tuberculose por 100.000 habitantes",
+               "Taxa de mortalidade por suicídio",
+               "Taxa de mortalidade por acidentes de trânsito",
+               "Número de nascidos vivos de mães adolescentes (grupos etários 10-14 e 15-19) por 1 000 mulheres destes grupos etários",
+               "Proporção de pessoas em famílias com grandes gastos em saúde em relação ao total de despesas familiares",
+               "Taxa de mortalidade atribuída a fontes de água inseguras, saneamento inseguro e falta de higiene",
+               "Taxa de mortalidade atribuída a intoxicação não intencional"
+            ],
+            "construção": [
+            "Número de novas infecções por HIV por 1 000 habitantes, por sexo, idade e populações específicas",
+            "Taxa de incidência da malária por 1 000 habitantes",
+            "Taxa de incidência da hepatite B por 100 mil habitantes",
+            "Número de pessoas que necessitam de intervenções contra doenças tropicais negligenciadas (DTN)",
+            "Taxa de mortalidade por doenças do aparelho circulatório, tumores malignos, diabetes mellitus e doenças crônicas respiratórias",
+            "Cobertura das intervenções (farmacológicas, psicossociais, de reabilitação e de pós-tratamento) para o tratamento do abuso de substâncias",
+            "Consumo de álcool em litros de álcool puro per capita (com 15 anos ou mais) por ano",
+            "Cobertura da Atenção Primária à Saúde",
+            "Taxa de mortalidade por poluição ambiental (externa e doméstica) do ar",
+            "Prevalência de fumantes na população de 15 ou mais anos",
+            "axa de cobertura vacinal da população em relação às vacinas incluídas no Programa Nacional de Vacinação",
+            "Ajuda oficial ao desenvolvimento total líquida para a investigação médica e para os setores básicos de saúde",
+            "Proporção de estabelecimentos de saúde que dispõem de um conjunto básico de medicamentos essenciais e relevantes disponíveis e a custo acessível numa base sustentável",
+            "Número de profissionais de saúde por habitante",
+            "Capacidade para o Regulamento Sanitário Internacional (RSI) e preparação para emergências de saúde"
+            ],
+            "semDados": [
+            "Proporção de mulheres em idade reprodutiva (15 a 49 anos) que utilizam métodos modernos de planejamento familiar",
+            "Porcentagem de infecções da corrente sanguínea, devido a organismos resistentes a antimicrobianos selecionados"
+            ],
+            "naoAplicaAoBrasil": [
+                
+            ]
+
+        },
+        {
+            "id": "4",
+            "name": "Educação de Qualidade",
+            "produzido": [
+               "Taxa de conclusão do ensino fundamental e ensino médio",
+               "Taxa de participação no ensino organizado (um ano antes da idade oficial de ingresso no ensino fundamental), por sexo",
+               "Índices de paridade (mulher/homem, rural/urbano, 1º/5º quintis de renda e outros como população com deficiência, populações indígenas e populações afetadas por conflitos, à medida que os dados estejam disponíveis) para todos os indicadores nesta lista que possam ser desagregados",
+                "Proporção de escolas com acesso a: (a) eletricidade; (b) internet para fins pedagógicos; (c) computadores para fins pedagógicos; (d) infraestrutura e materiais adaptados para alunos com deficiência; (e) água potável; (f) instalações sanitárias separadas por sexo; e (g) instalações básicas para lavagem das mãos (de acordo com as definições dos indicadores WASH)",
+                "Proporção de professores que receberam a qualificação mínima exigida, por nível de ensino"
+            ],
+            "construção": [
+            "Proporção de crianças e jovens: (a) nos segundo e terceiro anos do ensino fundamental; (b) no final dos anos iniciais do ensino fundamental; e c) no final dos anos finais do ensino fundamental, que atingiram um nível mínimo de proficiência em (i) leitura e (ii) matemática, por sexo",
+            "Proporção de crianças com idade entre 24-59 meses que estão com desenvolvimento adequado da saúde, aprendizagem e bem-estar psicossocial, por sexo"
+
+            ],
+            "semDados": [
+            "Taxa de participação de jovens e adultos na educação formal e não formal, nos últimos 12 meses, por sexo",
+            "Proporção de jovens e adultos com habilidades em tecnologias de informação e comunicação (TIC), por tipo de habilidade",
+            "Percentual da população de determinado grupo etário que atingiu pelo menos o nível mínimo de proficiência em (a) leitura e escrita e (b) matemática, por sexo",
+            "Grau em que a (i) a educação para a cidadania global e (ii) a educação para o desenvolvimento sustentável são integradas nas (a) políticas nacionais de educação; (b) currículos escolares; (c) formação de professores; e (d) avaliação de estudantes"
+            ],
+            "naoAplicaAoBrasil": [
+            
+               "Volume dos fluxos de ajuda oficial ao desenvolvimento para bolsas de estudo por área e tipo de estudo"
+                
+            ]
+
+        },
+        {
+            "id": "5",
+            "name": "Igualdade de Gênero",
+            "produzido": [
+               "Existência ou não de arcabouço legal em vigor para promover, reforçar e monitorar a igualdade e a não-discriminação com base no sexo",
+               "Proporção de mulheres e meninas de 15 anos de idade ou mais que sofreram violência física, sexual ou psicológica, por parte de um parceiro íntimo atual ou anterior, nos últimos 12 meses, por forma de violência e por idade",
+               "Proporção de mulheres e meninas de 15 anos ou mais que sofreram violência sexual por outras pessoas não parceiras íntimas, nos últimos 12 meses, por idade e local de ocorrência",
+               "Proporção de mulheres com idade de 20 a 24 anos que casaram ou viveram em união de fato antes dos 15 anos e antes dos 18 anos de idade",
+               "Número de países com legislação e regulamentação que garantam o acesso pleno e igualitário de mulheres e homens, com 15 anos ou mais de idade, aos cuidados, informação e educação em saúde sexual e reprodutiva",
+               "Proporção da população agrícola total com propriedade ou direitos assegurados sobre terras agrícolas, por sexo; e (b) proporção de mulheres entre proprietários e detentores de direitos sobre terras agrícolas, por tipo de posse",
+               "Proporção de países onde as estruturas legais (incluindo o direito consuetudinário) garantem às mulheres direitos iguais à propriedade e / ou controle da terra",
+               "Proporção de países com sistemas para monitorar e fazer alocações públicas para a igualdade de gênero e o empoderamento das mulheres"
+            ],
+            "construção": [
+            "Proporção de mulheres com idade entre 15 e 49 anos que tomam decisões informadas sobre suas relações sexuais, uso de contraceptivos e cuidados com saúde reprodutiva"
+            ],
+            "semDados": [
+            "Existência ou não de arcabouço legal em vigor para promover, reforçar e monitorar a igualdade e a não-discriminação com base no sexo",
+            "Proporção de mulheres e meninas de 15 anos de idade ou mais que sofreram violência física, sexual ou psicológica, por parte de um parceiro íntimo atual ou anterior, nos últimos 12 meses, por forma de violência e por idade",
+            "Proporção de mulheres e meninas de 15 anos ou mais que sofreram violência sexual por outras pessoas não parceiras íntimas, nos últimos 12 meses, por idade e local de ocorrência",
+            "Proporção de mulheres com idade de 20 a 24 anos que casaram ou viveram em união de fato antes dos 15 anos e antes dos 18 anos de idade",
+            "Número de países com legislação e regulamentação que garantam o acesso pleno e igualitário de mulheres e homens, com 15 anos ou mais de idade, aos cuidados, informação e educação em saúde sexual e reprodutiva",
+            "Proporção da população agrícola total com propriedade ou direitos assegurados sobre terras agrícolas, por sexo; e (b) proporção de mulheres entre proprietários e detentores de direitos sobre terras agrícolas, por tipo de posse",
+            " Proporção de países onde as estruturas legais (incluindo o direito consuetudinário) garantem às mulheres direitos iguais à propriedade e / ou controle da terra",
+            " Proporção de países com sistemas para monitorar e fazer alocações públicas para a igualdade de gênero e o empoderamento das mulheres"
+            ],
+            "naoAplicaAoBrasil": [
+               "Proporção de meninas e mulheres com idade entre 15 e 49 anos que foram submetidas a mutilação genital feminina, por grupo etário"
+            ]
+
+        },
+        {
+            "id": "6",
+            "name": "Água Potável e Saneamento",
+            "produzido": [
+               "Proporção da população que utiliza serviços de água potável gerenciados de forma segura",
+               "Proporção da população que utiliza (a) serviços de saneamento gerenciados de forma segura e (b) instalações para lavagem das mãos com água e sabão",
+               "Proporção de corpos hídricos com boa qualidade ambiental",
+               "Alteração da eficiência no uso da água ao longo do tempo",
+               "Nível de stress hídrico: proporção das retiradas de água doce em relação ao total dos recursos de água doce disponíveis",
+               "Grau de implementação da gestão integrada de recursos hídricos (0-100)",
+               "Proporção das áreas de bacias hidrográficas transfronteiriças abrangidas por um acordo operacional para cooperação hídrica",
+               "Alteração na extensão dos ecossistemas relacionados a água ao longo do tempo",
+               "ontante de ajuda oficial ao desenvolvimento na área da água e saneamento, inserida num plano governamental de despesa",
+               "Proporção das unidades administrativas locais com políticas e procedimentos estabelecidos e operacionais para a participação das comunidades locais na gestão de água e saneamento"
+            ],
+            "construção": [
+            "Proporção do fluxo de águas residuais doméstica e industrial tratadas de forma segura"
+            ],
+            "semDados": [
+            
+            ],
+            "naoAplicaAoBrasil": [
+               
+            ]
+
+        },
+        {
+            "id": "7",
+            "name": "Energia Limpa e Acessível",
+            "produzido": [
+               "Percentagem da população com acesso à eletricidade",
+               "Percentagem da população com acesso primário a combustíveis e tecnologias limpos",
+               "Participação das energias renováveis na Oferta Interna de Energia (OIE)",
+               "Intensidade energética medida em termos de energia primária e de PIB",
+               "apacidade instalada de geração de energia renovável nos países em desenvolvimento (em watts per capita)"
+            ],
+            "construção": [
+            
+            ],
+            "semDados": [
+            "Fluxos financeiros internacionais para países em desenvolvimento para apoio à pesquisa e desenvolvimento de energias limpas e à produção de energia renovável, incluindo sistemas híbridos"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "8",
+            "name": "Emprego Decente e Crescimento Econômico",
+            "produzido": [
+               "Taxa de crescimento real do PIB per capita",
+               "Taxa de variação anual do PIB real por pessoa ocupada",
+               "Salário médio por hora de empregados por sexo, por ocupação, idade e pessoas com deficiência",
+               "Taxa de desocupação, por sexo, idade e pessoas com deficiência",
+               "Percentagem de jovens (15-24) que não estão na força de trabalho (ocupados e não ocupados), não são estudantes e nem estão em treinamento para o trabalho",
+               "Número de agências bancárias por 100 000 adultos e (b) número de postos de multibanco (ATM) por 100 000 adultos",
+               "Proporção de adultos (15 ou mais anos) com uma conta num banco ou em outra instituição financeira ou com um serviço móvel de dinheiro"
+
+
+            ],
+            "construção": [
+            "Proporção de trabalhadores ocupados em atividades informais, por setor e sexo",
+            "Proporção e número de crianças de 5-17 anos envolvidos no trabalho infantil, por sexo e idade",
+            "Taxas de frequencia de lesões ocupacionais fatais e não fatais, por sexo e situação de migração",
+            "Nível de conformidade nacional dos direitos trabalhistas (liberdade de associação e negociação coletiva) com base em fontes textuais da Organização Internacional do Trabalho (OIT) e legislação nacional, por sexo e situação de migração",
+            "Compromissos e desembolsos no âmbito da Iniciativa de Ajuda ao Comércio",
+            "Existência de uma estratégia nacional desenvolvida e operacionalizada para o emprego dos jovens, como estratégia distinta ou como parte de uma estratégia nacional para o emprego"
+            ],
+            "semDados": [
+            "Pegada material, pegada material per capita e pegada material em percentagem do PIB",
+            "onsumo interno de materiais, consumo interno de materiais per capita e consumo interno de materiais por unidade do PIB",
+            "Turismo em percentagem do PIB e taxa de variação"
+            ],
+            "naoAplicaAoBrasil": [
+               
+
+                
+            ]
+
+        },
+        {
+            "id": "9",
+            "name": "Indústria, Inovação e Infraestrutura",
+            "produzido": [
+               "Valor adicionado da indústria em proporção do PIB e per capita",
+               "Emprego na indústria em proporção do emprego total",
+               "Proporção do valor adicionado das empresas de pequena escala no total do valor adicionado da indústria",
+               "Emissão de CO2 pelo PIB",
+               "Dispêndio em P&D em proporção do PIB",
+               "Pesquisadores (em equivalência de tempo integral) por milhão de habitantes",
+               "Proporção do valor adicionado nas indústrias de média e alta intensidade tecnológica no valor adicionado total",
+               "Proporção da população coberta por rede móvel, por tipo de tecnologia"
+            ],
+            "construção": [
+            "Proporção de população residente em áreas rurais que vive num raio de 2 km de acesso a uma estrada transitável em todas as estações do ano",
+            "Passageiros e cargas transportados por modalidade de transporte",
+            "Proporção de microempresas com empréstimos contraídos ou linhas de crédito"
+    
+
+            ],
+            "semDados": [
+            "Total de apoio internacional oficial (ajuda oficial ao desenvolvimento e outros fluxos oficiais) à infraestrutura"
+            ],
+            "naoAplicaAoBrasil": [
+            
+             
+                
+            ]
+
+        },
+        {
+            "id": "10",
+            "name": "Redução das Desigualdades",
+            "produzido": [
+               "Taxa de crescimento das despesas domiciliares ou rendimento per capita entre os 40% com os menores rendimentos da população e a população total",
+               "Proporção da pessoas vivendo abaixo de 50% da mediana da renda, por sexo, idade e pessoas com deficiência",
+               "Proporção das remunerações no PIB, incluindo salários e as transferências de proteção social",
+               "Indicadores de Solidez Financeira",
+               "Índice de Patrimônio de Referência Nível I sobre Ativos Totais Ajustados (B1B2)",
+               "Índice de Patrimônio de Referência Nível I",
+               "Índice de Inadimplência da carteira de crédito",
+               "Retorno sobre ativos (B1B2)",
+               "Ativos líquidos sobre passivos de curto prazo",
+               "Posição aberta líquida em moeda estrangeira sobre capital"
+            ],
+            "construção": [
+            "Proporção da população que reportou ter-se sentido pessoalmente discriminada ou assediada nos últimos 12 meses por motivos de discriminação proibidos no âmbito da legislação internacional dos direitos humanos",
+            "Impacto redistributivo da política fiscal",
+            "Proporção de membros e direito de voto dos países em desenvolvimento em organizações internacionais",
+            "Proporção da população de refugiados, por país de origem",
+            "Proporção de linhas tarifárias com tarifa zero aplicadas às importações provenientes dos países menos desenvolvidos e dos países em desenvolvimento",
+            "Total de fluxos de recursos para o desenvolvimento, por beneficiário e país doador, e tipo de fluxo (ex. ajuda pública ao desenvolvimento, investimento direto estrangeiro e outros fluxos)",
+            "Custos das remessas em proporção do valor remetido"
+            ],
+            "semDados": [
+            "Custo de recrutamento suportado pelo empregado em proporção do rendimento anual auferido no país de destino",
+            "Número de países que implementaram políticas de migração bem geridas",
+            "Número de pessoas que morreram ou desapareceram no processo de migração internacional"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "11",
+            "name": "Cidades e Comunidades Sustentáveis",
+            "produzido": [
+               "Proporção de população urbana vivendo em assentamentos precários, assentamentos informais ou domicílios inadequados",
+               "Proporção de cidades com uma estrutura de participação direta da sociedade civil no planejamento e gestão urbana que opera de forma regular e democrática",
+               "Total da despesa (pública e privada) per capita gasta na preservação, proteção e conservação de todo o patrimônio cultural e natural, por tipo de patrimônio (cultural, natural, misto e por designação do Centro do Patrimônio Mundial), nível de governo (nacional, regional e local), tipo de despesa (despesas correntes/de investimento) e tipo de financiamento privado (doações em espécie, setor privado sem fins lucrativos e patrocínios)",
+               "Número de mortes, pessoas desaparecidas e pessoas diretamente afetadas atribuído a desastres por 100 mil habitantes",
+               "Número de países que possuem políticas urbanas nacionais ou planos de desenvolvimento regional que (a) respondem à dinâmica populacional; (b) garantem um desenvolvimento territorial equilibrado; e (c) possuem responsabilidade fiscal",
+               "Número de países que adotam e implementam estratégias nacionais de redução de risco de desastres em linha com o Marco de Sendai para a Redução de Risco de Desastres 2015-2030",
+               "Proporção de governos locais que adotam e implementam estratégias locais de redução de risco de desastres em linha com as estratégias nacionais de redução de risco de desastres"
+            ],
+            "construção": [
+                
+                "Proporção de resíduos sólidos urbanos coletados e gerenciados em instalações controladas pelo total de resíduos urbanos gerados, por cidades"
+
+
+            ],
+            "semDados": [
+                "Proporção de população que tem acesso adequado a transporte público, por sexo, idade e pessoas com deficiência",
+                "Razão da taxa de consumo do solo pela taxa de crescimento da população",
+                "Perdas econômicas diretas em relação ao PIB, incluindo danos causados por desastres em infraestruturas críticas e na interrupção de serviços básicos",
+                "Nível médio anual de partículas inaláveis (ex: com diâmetro inferior a 2,5 µm e 10 µm) nas cidades (população ponderada)",
+                "Proporção da área construída cidades que é espaço público aberto para uso de todos, por sexo, idade e pessoas com deficiência",
+                "Proporção da população vítima de assédio físico ou sexual, por sexo, grupo etário, pessoas com deficiência e local da ocorrência, nos últimos 12 meses"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "12",
+            "name": "Consumo e Produção Responsáveis",
+            "produzido": [
+               "Número de países que incorporam o consumo e a produção sustentáveis em planos de ação nacionais ou como uma prioridade ou uma meta nas políticas nacionais",
+               "Número de Partes em acordos multilaterais internacionais sobre resíduos perigosos e outros produtos químicos, no domínio do ambiente, que cumpram os seus compromissos e obrigações na transmissão de informações, conforme exigido por cada acordo relevante",
+               "Número de empresas que publicam relatórios de sustentabilidade",
+               "Capacidade instalada de geração de energia renovável nos países em desenvolvimento (em watts per capita)"
+            ],
+            "construção": [
+            
+            ],
+            "semDados": [
+            "Pegada material, pegada material per capita e pegada material em percentagem do PIB",
+            "Consumo interno de materiais, consumo interno de materiais per capita e consumo interno de materiais por unidade do PIB",
+            "Índice de perdas alimentares e (b) Índice de desperdício alimentar",
+            "Quantidade de resíduos perigosos gerados per capita e proporção de resíduos perigosos tratados, por tipo de tratamento",
+            "Taxa de reciclagem nacional por toneladas de material reciclado",
+            "Número de países que implementam políticas e planos de ação para compras públicas sustentáveis",
+            "Grau em que a (i) a educação para a cidadania global e (ii) a educação para o desenvolvimento sustentável são integradas nas (a) políticas nacionais de educação; (b) currículos escolares; (c) formação de professores; e (d) avaliação de estudantes",
+            "Aplicação de instrumentos contábeis padronizados para monitorar os aspectos econômicos e ambientais da sustentabilidade do turismo",
+            "Montante de subsídios aos combustíveis fósseis por unidade do PIB (produção e consumo)"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "13",
+            "name": "Ação Contra a Mudança Global do Clima",
+            "produzido": [
+               "Número de mortes, pessoas desaparecidas e pessoas diretamente afetadas atribuído a desastres por 100 mil habitantes",
+               "Número de países que adotam e implementam estratégias nacionais de redução de risco de desastres em linha com o Quadro de Sendai para a Redução de Risco de Desastres 2015-2030",
+               " Proporção de governos locais que adotam e implementam estratégias locais de redução de risco de desastres em linha com as estratégias nacionais de redução de risco de desastres"
+            ],
+            "construção": [
+            "Número de países com Contribuições Nacionalmente Determinadas, estratégias de longo prazo, planos nacionais de adaptação, estratégias como reportadas nas comunicações nacionais e de adaptação",
+            "Emissões totais de gases de efeito estufa por ano"
+            ],
+            "semDados": [
+            "Grau em que a (i) a educação para a cidadania global e (ii) a educação para o desenvolvimento sustentável são integradas nas (a) políticas nacionais de educação; (b) currículos escolares; (c) formação de professores; e (d) avaliação de estudantes",
+            "Quantidades fornecidas e mobilizadas em dólares dos Estados Unidos por ano em relação à meta continuada de mobilização coletiva existente do compromisso de US$100 bilhões até 2025"
+            ],
+            "naoAplicaAoBrasil": [
+            "Número de países menos desenvolvidos e pequenos Estados insulares em desenvolvimento com Contribuições Nacionalmente Determinadas, estratégias de longo prazo, planos nacionais de adaptação, estratégias como reportadas nas comunicações nacionais e de adaptação"
+            ]
+
+        },
+        {
+            "id": "14",
+            "name": "Vida na Água",
+            "produzido": [
+               "Cobertura de áreas marinhas protegidas em relação às áreas marinhas"
+            ],
+            "construção": [
+            
+            ],
+            "semDados": [
+            "Índice de eutrofização costeira; e (b) densidade de detritos plásticos",
+            "Número de países que utilizam abordagens baseadas em ecossistemas para gerenciar áreas marinhas",
+            "cidez média marinha (pH) medida num conjunto representativo de estações de coleta",
+            "Proporção da população de peixes (fish stocks) dentro de níveis biologicamente sustentáveis",
+            "Progresso dos países, relativamente ao grau de implementação dos instrumentos internacionais visando o combate da pesca ilegal, não registrada (declarada) e não regulamentada (IUU fishing)",
+            "Pesca sustentável como uma proporção do Produto Interno Bruto (PIB) de pequenos Estados insulares em desenvolvimento, (Small Islands Developing States), de países menos desenvolvidos e todos os países",
+            "Proporção do total do orçamento de pesquisas alocado para pesquisas na área da tecnologia marinha",
+            "Progresso dos países relativamente ao grau de aplicação de uma estrutura (enquadramento) legal/ regulamentar/político e institucional que reconheça e proteja os direitos de acesso dos pescadores de pequena escala",
+            "Número de países com progressos na ratificação, aceitação e implementação, através de quadros legais, políticos e institucionais, de instrumentos relacionados com o oceano que implementam o direito internacional, tal como refletido na Convenção das Nações Unidas sobre o Direito do Mar, para a conservação e uso sustentável dos oceanos e seus recursos"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "15",
+            "name": "Vida Terrestre",
+            "produzido": [
+               "Área florestal como proporção da área total do território",
+               "Índice de cobertura vegetal nas regiões de montanha",
+               " Número de países que adotaram quadros legislativos, administrativos e políticos para assegurar a partilha justa e equitativa de benefícios"
+            ],
+            "construção": [
+            "Proporção de sítios importantes para a biodiversidade terrestre e de água doce cobertos por áreas protegidas, por tipo de ecossistema",
+            "Progressos na gestão florestal sustentável",
+            "Proporção do território com solos degradados",
+            "Cobertura de áreas protegidas de sitios importantes para a biodiversidade das montanhas",
+            "Proporção de países que adotam legislação nacional relevante e recursos adequados para a prevenção ou o controle de espécies exóticas invasoras",
+            "Número de países que estabeleceram metas nacionais em conformidade com a Meta 2 de Aichi do Plano Estratégico para a Biodiversidade 2011–2020 ou metas similares em suas estratégias e planos de ação nacionais para a biodiversidade e o progresso relatado no alcance dessas metas; e (b) integração da biodiversidade nas contas nacionais e sistemas de relatoria, definidos como implementação do Sistema de Contas Econômicas Ambientais",
+            "Assistência oficial ao desenvolvimento em conservação e uso sustentável da biodiversidade; e (b) receita gerada e financiamento mobilizado a partir de instrumentos econômicos relevantes para a biodiversidade",
+            "Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+            ],
+            "semDados": [
+             "Índice das listas vermelhas",
+             "Proporção da vida silvestre comercializada que foi objeto de caça furtiva ou de tráfico ilícito",
+             "Proporção da vida silvestre comercializada que foi objeto de caça furtiva ou de tráfico ilícito"
+
+            ],
+            "naoAplicaAoBrasil": [
+               
+                
+            ]
+
+        },
+        {
+            "id": "16",
+            "name": "Paz, Justiça e Instituições Eficazes",
+            "produzido": [
+               "Número de vítimas de homicídio intencional, por 100 000 habitantes, por sexo e idade",
+               "Proporção de presos sem sentença em relação à população prisional em geral",
+               "Despesas públicas primárias como proporção do orçamento original aprovado, por setor (ou por códigos de orçamento ou similares)",
+               " Número de países que adotam e implementam garantias constitucionais, estatutárias e/ou políticas para acesso público à informação"
+            ],
+            "construção": [
+            "Óbitos relacionados com conflitos por 100 000 habitantes, por sexo, idade e causa",
+            "Proporção de mulheres e homens jovens com idade entre 18 e 29 anos que foram vítimas de violência sexual até a idade de 18 anos",
+            "Proporção da população que teve alguma disputa nos últimos dois anos, e que acessou um mecanismo formal ou informal de resolução de disputas, por tipo de mecanismo",
+            "alor total de entradas e saídas de fluxos financeiros ilícitos (em dólares americanos correntes)",
+            "Proporção de armas apreendidas, encontradas ou entregues, cuja origem ou contexto ilícito tenha sido detectado ou estabelecido por uma autoridade competente, em linha com instrumentos internacionais",
+            "Proporção da população satisfeita com a última experiência com serviços públicos",
+            "Proporções de cargos (por sexo, idade, pessoas com deficiência e grupos populacionais) em instituições públicas (legislativo nacional e locais, administração pública e tribunais) em relação às distribuições nacionais",
+            " Proporção da população que considera que os processos de tomada de decisão são inclusivos e adequados, por sexo, idade, deficiência e grupo populacional",
+            "Número de casos verificados de homicídio, sequestro, desaparecimento forçado, detenção arbitrária e tortura de jornalistas, pessoal de mídia, sindicalistas e defensores dos direitos humanos nos últimos 12 meses",
+            "Existência de instituições nacionais independentes de direitos humanos, de acordo com os Princípios de Paris"
+            ],
+            "semDados": [
+            "Proporção da população sujeita a violência física, psicológica ou sexual nos últimos 12 meses",
+            "Proporção da população que se sente segura quando caminha sozinha na área onde vive",
+            "Proporção de crianças com idade entre 1 e 17 anos que sofreram qualquer punição física e/ou e/ou agressão psicológica por parte de cuidadores no último mês",
+            "Número de vítimas de tráfico de pessoas por 100 000 habitantes, por sexo, idade e forma de exploração",
+            "Proporção de vítimas de violência nos últimos 12 meses que reportaram às autoridades competentes ou a outros organismos de resolução de conflitos oficialmente reconhecidos",
+            "Proporção de pessoas que tiveram pelo menos um contato com um funcionário público e que pagaram um suborno ou a quem foi pedido um suborno por funcionários públicos, nos últimos 12 meses",
+            "Proporção de crianças com menos de 5 anos cujos nascimentos foram registrados por uma autoridade civil, por idade",
+            "Proporção da população que reportou ter-se sentido pessoalmente discriminada ou assediada nos últimos 12 meses por motivos de discriminação proibidos no âmbito da legislação internacional dos direitos humanos"
+
+            ],
+            "naoAplicaAoBrasil": [
+               "Proporção de membros e direito de voto dos países em desenvolvimento em organizações internacionais"
+                
+            ]
+
+        },
+        {
+            "id": "17",
+            "name": "Parcerias e Meios de Implementação",
+            "produzido": [
+               "Total das receitas do Governo em percentagem do PIB, por fonte",
+               "Percentagem do orçamento do Governo financiada por impostos cobrados internamente",
+               "Volume de remessas (em dólares dos Estados Unidos) como proporção do PIB total",
+               "Serviço da dívida como proporção das exportações de bens e serviços",
+               "Subscrições de Internet por banda larga de rede fixa por 100 habitantes, por velocidade de ligação",
+               "Proporção de indivíduos que utilizam a Internet"
+            ],
+            "construção": [
+            "Número de países que adotam e implementam regimes de promoção de investimentos para os países em desenvolvimento, incluindo os países menos desenvolvidos",
+            "ontante total de financiamento para países em desenvolvimento para promover o desenvolvimento, transferência, disseminação e difusão de tecnologias ambientalmente seguras e racionais",
+            "Painel de indicadores macroeconômicos",
+            "Extensão do recurso a quadros de resultados e instrumentos de planejamento delineados pelos beneficiários [country ownership], por parte dos países fornecedores de cooperação para o desenvolvimento",
+            "Número de países que reportam progressos na eficácia dos quadros de monitoramento de múltiplos atores que apoiam o cumprimento dos objetivos de desenvolvimento sustentável",
+            "Montante de dólares nos Estados Unidos destinados a parcerias público-privadas para infraestrutura",
+            "Indicador de capacidade estatística para monitoramento dos Objetivos do Desenvolvimento Sustentável",
+            "úmero de países que possuem legislação estatística nacional que cumpre os Princípios Fundamentais das Estatísticas Oficiais",
+            "Número de países com um plano estatístico nacional totalmente financiado e em execução, por fonte de financiamento",
+            " Valor em dólares de todos os recursos disponibilizados para fortalecer a capacidade estatística nos países em desenvolvimento",
+            "Proporção de países que (a) realizaram pelo menos um Recenseamento da População e da Habitação nos últimos 10 anos; e (b) atingiram 100% de registros de nascimento e 80% de registros de óbitos"
+            ],
+            "semDados": [
+            "Investimento direto estrangeiro, assistência oficial ao desenvolvimento e Cooperação Sul-Sul, como proporção do rendimento nacional bruto",
+            "Valor, em dólares, da assistência técnica e financeira (incluindo cooperação Norte-Sul, Sul-Sul e triangular) destinada a países em desenvolvimento",
+            "Número de países com mecanismos em vigor para reforçar a coerência política do desenvolvimento sustentável"
+            ],
+            "naoAplicaAoBrasil": [
+               
+                "Assistência oficial ao desenvolvimento líquida, total e para os países menos desenvolvidos, como proporção do Rendimento Nacional Bruto (RNB) dos doadores do Comitê de Ajuda ao Desenvolvimento da Organização para a Cooperação e Desenvolvimento Econômico (OCDE)",
+                "Média ponderada das tarifas aduaneiras à escala mundial",
+                "Participação das exportações provenientes dos países em vias de desenvolvimento e dos países menos desenvolvidos nas exportações globais",
+                "Média ponderada de tarifas aduaneiras aplicadas aos países em desenvolvimento, países menos desenvolvidos e pequenos Estados insulares em desenvolvimento"
+
+            ]
+
+        }
+    ]
+}
