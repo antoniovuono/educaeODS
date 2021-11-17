@@ -1,8 +1,22 @@
+import 'react-native-gesture-handler';
 import React from 'react';
-import Home from './src/pages/screens/Home';
+
+import {ThemeProvider} from 'styled-components';
+import theme from './src/global/styles/theme';
+import {StatusBar} from 'react-native';
+import Routes from './src/routes';
 
 const App: React.FC = () => {
-  return <Home />;
+  return (
+    <ThemeProvider theme={theme}>
+      <StatusBar
+        barStyle="light-content"
+        backgroundColor="transparent"
+        translucent
+      />
+      <Routes />
+    </ThemeProvider>
+  );
 };
 
 export default App;
